@@ -1,0 +1,256 @@
+﻿c_value;c_name
+#E91E63;fuchsia
+#1976D2;bleu
+#FF9800;orange
+#00CC00;vert
+#87CEEB;bleu ciel
+#AF7AC5;violet
+#696969;gris rabattu
+#00FF00;vert (lime)
+#008080;turquoise
+#FF00FF;fuchsia (2)
+#FF0033;rouge
+#800000;marron
+#808000;olive
+#C0C0C0;gris
+#20B2AA;vert océan clair
+#FFD700;or
+#00FFFF;bleu (aqua)
+#FFEB3B;jaune
+#000000;noir
+#0000FF;bleu
+#8A2BE2;parme bleuté
+#A52A2A;brun
+#DEB887;bois dur
+#5F9EA0;pétrole clair
+#7FFF00;vert chartreuse
+#D2691E;chocolat
+#FF7F50;corail
+#6495ED;bleuet
+#DC143C;pourpre
+#00FFFF;cyan
+#00008B;bleu sombre
+#008B8B;cyan sombre
+#B8860B;jaune paille sombre
+#006400;vert sombre
+#BDB76B;kaki sombre
+#8B008B;magenta sombre
+#556B2F;vert olive sombre
+#FF8C00;orange sombre
+#8B0000;rouge sombre
+#E9967A;saumon sombre
+#8FBC8F;vert océan sombre
+#483D8B;bleu ardoise sombre
+#2F4F4F;gris ardoise sombre
+#00CED1;turquoise sombre
+#9400D3;violet sombre
+#FF1493;rose profond
+#00BFFF;bleu ciel profond
+#1E90FF;Bleu royal
+#B22222;rouge brique
+#228B22;vert forêt
+#FF00FF;fuchsia
+#DCDCDC;Gris granulé
+#DAA520;jaune paille
+#808080;gris
+#008000;vert
+#ADFF2F;jaune-vert
+#FF69B4;rose chaud
+#CD5C5C;rouge indien
+#4B0082;indigo
+#F0E68C;kaki
+#7CFC00;vert prairie
+#ADD8E6;bleu clair
+#F08080;corail clair
+#E0FFFF;cyan clair
+#90EE90;vert clair
+#D3D3D3;gris clair
+#FFB6C1;rose clair
+#FFA07A;saumon clair
+#87CEFA;bleu ciel clair
+#778899;gris ardoise clair
+#B0C4DE;bleu acier clair
+#00FF00;citron vert
+#32CD32;citron vert foncé
+#FF00FF;magenta
+#800000;marron
+#66CDAA;aigue-marine moyen
+#0000CD;bleu moyen
+#BA55D3;orchidée moyen
+#9370DB;lavande
+#3CB371;vert océan moyen
+#7B68EE;bleu ardoise moyen
+#00FA9A;vert printemps moyen
+#48D1CC;turquoise moyen
+#C71585;rouge violacé moyen
+#191970;bleu nuit
+#000080;bleu marine
+#808000;vert olive
+#6B8E23;vert olive terne
+#FFA500;orange
+#FF4500;rouge orangé
+#DA70D6;orchidée
+#EEE8AA;jaune paille pâle
+#98FB98;vert pâle
+#AFEEEE;turquoise pâle
+#DB7093;rouge violacé pâle
+#FFDAB9;pêche passé
+#CD853F;pérou
+#FFC0CB;rose
+#DDA0DD;prune
+#B0E0E6;bleu poudré
+#800080;violet
+#FF0000;rouge
+#BC8F8F;bois de rose
+#4169E1;bleu roi
+#8B4513;cuir
+#FA8072;saumon
+#F4A460;brun sable
+#2E8B57;vert océan
+#A0522D;terre-de-sienne
+#C0C0C0;argent
+#6A5ACD;bleu ardoise
+#708090;gris ardoise
+#00FF7F;vert printemps
+#4682B4;bleu acier
+#D2B48C;brun tané
+#008080;sarcelle
+#D8BFD8;chardon
+#FF6347;rouge tomate
+#40E0D0;turquoise
+#EE82EE;parme
+#F5DEB3;blé
+#FFFF00;jaune
+#9ACD32;vert jaunâtre
+#A9A9A9;gris clair
+#9932CC;orchidée sombre
+#F0F8FF;bleu Alice
+#FAEBD7;blanc antique
+#00FFFF;eau
+#7FFFD4;aigue-marine
+#F0FFFF;azurin
+#F5F5DC;beige
+#FFE4C4;bisque
+#FFEBCD;amande blanchi
+#FFF8DC;jaune maïs doux
+#FFFAF0;blanc floral
+#F8F8FF;blanc spectral
+#F0FFF0;miellé
+#FFFFF0;ivoire
+#E6E6FA;lavande
+#FFF0F5;lavande rougeâtre
+#FFFACD;Jaune Citron
+#FAFAD2;jaune paille clair
+#FFFFE0;jaune clair
+#FAF0E6;blanc de lin
+#F5FFFA;blanc mentholé
+#FFE4E1;rose voilé
+#FFE4B5;beige mocassin
+#FFDEAD;blanc navarro
+#FDF5E6;vieux blanc
+#FFEFD5;papaye délavé
+#FFF5EE;coquillage
+#FFFAFA;blanc neigeux
+#FFFFFF;blanc
+#F5F5F5;blanc fumée
+#000000;noir
+#0000FF;bleu
+#8A2BE2;parme bleuté
+#A52A2A;brun
+#DEB887;bois dur
+#5F9EA0;pétrole clair
+#7FFF00;vert chartreuse
+#D2691E;chocolat
+#FF7F50;corail
+#6495ED;bleuet
+#DC143C;pourpre
+#00FFFF;cyan
+#00008B;bleu sombre
+#008B8B;cyan sombre
+#B8860B;jaune paille sombre
+#006400;vert sombre
+#BDB76B;kaki sombre
+#8B008B;magenta sombre
+#556B2F;vert olive sombre
+#FF8C00;orange sombre
+#8B0000;rouge sombre
+#E9967A;saumon sombre
+#8FBC8F;vert océan sombre
+#483D8B;bleu ardoise sombre
+#2F4F4F;gris ardoise sombre
+#00CED1;turquoise sombre
+#9400D3;violet sombre
+#FF1493;rose profond
+#00BFFF;bleu ciel profond
+#1E90FF;Bleu royal
+#B22222;rouge brique
+#228B22;vert forêt
+#FF00FF;fuchsia
+#DCDCDC;Gris granulé
+#DAA520;jaune paille
+#808080;gris
+#008000;vert
+#ADFF2F;jaune-vert
+#FF69B4;rose chaud
+#CD5C5C;rouge indien
+#4B0082;indigo
+#F0E68C;kaki
+#7CFC00;vert prairie
+#ADD8E6;bleu clair
+#F08080;corail clair
+#E0FFFF;cyan clair
+#90EE90;vert clair
+#D3D3D3;gris clair
+#FFB6C1;rose clair
+#FFA07A;saumon clair
+#87CEFA;bleu ciel clair
+#778899;gris ardoise clair
+#B0C4DE;bleu acier clair
+#00FF00;citron vert
+#32CD32;citron vert foncé
+#FF00FF;magenta
+#800000;marron
+#66CDAA;aigue-marine moyen
+#0000CD;bleu moyen
+#BA55D3;orchidée moyen
+#9370DB;lavande
+#3CB371;vert océan moyen
+#7B68EE;bleu ardoise moyen
+#00FA9A;vert printemps moyen
+#48D1CC;turquoise moyen
+#C71585;rouge violacé moyen
+#191970;bleu nuit
+#000080;bleu marine
+#808000;vert olive
+#6B8E23;vert olive terne
+#FFA500;orange
+#FF4500;rouge orangé
+#DA70D6;orchidée
+#EEE8AA;jaune paille pâle
+#98FB98;vert pâle
+#AFEEEE;turquoise pâle
+#DB7093;rouge violacé pâle
+#FFDAB9;pêche passé
+#CD853F;pérou
+#FFC0CB;rose
+#DDA0DD;prune
+#B0E0E6;bleu poudré
+#800080;violet
+#FF0000;rouge
+#BC8F8F;bois de rose
+#4169E1;bleu roi
+#8B4513;cuir
+#FA8072;saumon
+#F4A460;brun sable
+#2E8B57;vert océan
+#A0522D;terre-de-sienne
+#C0C0C0;argent
+#6A5ACD;bleu ardoise
+#708090;gris ardoise
+#00FF7F;vert printemps
+#4682B4;bleu acier
+#D2B48C;brun tané
+#008080;sarcelle
+#D8BFD8;chardon
+#FF6347;rouge tomate
+#40E0D0;turquoise
